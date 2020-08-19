@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/antlr-2.7.7.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/byte-buddy-1.8.12.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/c3p0-0.9.5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/classmate-1.3.4.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/dom4j-1.6.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/geolatte-geom-1.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-c3p0-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-commons-annotations-5.0.3.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-core-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-envers-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-jpamodelgen-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-osgi-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-proxool-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/hibernate-spatial-5.3.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/jandex-2.0.3.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/javassist-3.22.0-GA.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/javax.interceptor-api-1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/javax.persistence-api-2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/jboss-logging-3.3.2.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/jts-core-1.14.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/mchange-commons-java-0.2.11.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/postgresql-42.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/proxool-0.8.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/slf4j-api-1.6.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/org.osgi.compendium-4.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/org.osgi.core-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/org.osgi.compendium-4.3.1.jar!/OSGI-OPT/src" />
+          <root url="jar://$USER_HOME$/Desktop/HIbernate/org.osgi.core-4.3.1.jar!/OSGI-OPT/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/ojdbc8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Hibernate 5.4.11-5.4.11" level="project" />
+  </component>
+</module>
